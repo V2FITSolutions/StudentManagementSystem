@@ -3,7 +3,7 @@
 -- Server version:               10.4.21-MariaDB - mariadb.org binary distribution
 -- Server OS:                    Win64
 -- HeidiSQL Version:             11.3.0.6295
--- Pungak
+-- Pungak V2 hahahaha!
 -- --------------------------------------------------------
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
